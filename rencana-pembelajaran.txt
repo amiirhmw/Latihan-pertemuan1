@@ -1,0 +1,4 @@
+Rencana Pembelajaran Web Programming II
+- Mempelajari Git
+- Mempelajari Framework
+- Mempelejari cara membuat template web
